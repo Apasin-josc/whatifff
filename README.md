@@ -24,3 +24,16 @@ npm run dev
 npm next build
 npm next start
 ```
+
+### **Cool Documentation**
+
+[https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax]
+
+## **BIRTH**
+
+1. npx create-next-app@latest
+2. ~~npx tailwindcss init -p~~
+
+## **Useful Commands**
+
+## **Cool Git Commands**
